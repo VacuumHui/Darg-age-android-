@@ -1,0 +1,8 @@
+{
+  "appId": "com.roguelite.deckbuilder",
+  "appName": "Roguelite Deckbuilder",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
